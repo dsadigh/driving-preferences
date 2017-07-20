@@ -1,6 +1,6 @@
 This code learns reward functions from human preferences in driving scenarios by actively generating scenarios and querying a human expert.
 
-(Companion code to a paper submitted to AAAI 2017)
+(Companion code to RSS 2017 paper)
 
 ### Running
 
